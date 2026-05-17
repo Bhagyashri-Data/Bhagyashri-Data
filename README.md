@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Bhagyashri Gaikwad! 👋
 
-<!--
-**Bhagyashri-Data/Bhagyashri-Data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Commerce Graduate | Ex-EXL Customer Care Executive | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+Certified in **Google Advanced Data Analytics**, I blend 4 years of professional experience in utility operations and billing lifecycle management with a strong technical foundation in data manipulation and querying. I love turning complex datasets into clear, actionable business solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 🛠️ Technical Toolkit
+- **Languages:** SQL, Python
+- **Libraries:** Pandas, NumPy
+- **Tools:** Advanced Excel, GitHub, Jupyter Notebooks
+
+## 📈 Featured Projects
+*Projects coming soon! Currently building a Utility Revenue & Billing Integrity Analysis project.*
+
+---
+
+📬 **Connect with me:** [LinkedIn](https://www.linkedin.com)
